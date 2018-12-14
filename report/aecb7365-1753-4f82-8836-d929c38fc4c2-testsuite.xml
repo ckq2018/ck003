@@ -1,0 +1,105 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1544778633326" stop="1544778633354">
+  <name>script.test01</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1544778633326" status="passed" stop="1544778633336">
+      <name>Test01.test01</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="5940-MainThread"/>
+        <label name="host" value="风一样自由"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1544778633335" status="passed" stop="1544778633336">
+          <name>测试步骤001</name>
+          <title>测试步骤001</title>
+          <attachments>
+            <attachment source="2c3f505e-fc00-4a35-b6f1-fa1bb3c07e6e-attachment.txt" title="描述" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1544778633341" status="passed" stop="1544778633343">
+      <name>Test01.test02</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="minor"/>
+        <label name="thread" value="5940-MainThread"/>
+        <label name="host" value="风一样自由"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1544778633342" status="passed" stop="1544778633342">
+          <name>测试步骤002</name>
+          <title>测试步骤002</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1544778633344" status="passed" stop="1544778633347">
+      <name>Test01.test03</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="5940-MainThread"/>
+        <label name="host" value="风一样自由"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1544778633347" status="passed" stop="1544778633347">
+          <name>测试步骤003</name>
+          <title>测试步骤003</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1544778633349" status="passed" stop="1544778633351">
+      <name>Test01.test04</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5940-MainThread"/>
+        <label name="host" value="风一样自由"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1544778633350" status="passed" stop="1544778633351">
+          <name>测试步骤004</name>
+          <title>测试步骤004</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1544778633352" status="passed" stop="1544778633354">
+      <name>Test01.test05</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5940-MainThread"/>
+        <label name="host" value="风一样自由"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1544778633353" status="passed" stop="1544778633353">
+          <name>测试步骤005</name>
+          <title>测试步骤005</title>
+          <attachments>
+            <attachment source="c6a8dcb9-2979-4979-8344-8f2cff9f3367-attachment.txt" title="描述" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

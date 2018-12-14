@@ -1,0 +1,91 @@
+{
+  "uid" : "1f0f96ad747e273f",
+  "name" : "Test01.test05",
+  "fullName" : "script.test01.Test01.test05",
+  "historyId" : "6970d685409c50d838bbfabe2e3cace7",
+  "time" : {
+    "start" : 1544778633352,
+    "stop" : 1544778633354,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "测试步骤005",
+      "time" : {
+        "start" : 1544778633353,
+        "stop" : 1544778633353,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "abde72496d787186",
+        "name" : "描述",
+        "source" : "abde72496d787186.txt",
+        "type" : "text/plain",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "风一样自由"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5940-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "script.test01"
+  }, {
+    "name" : "testClass",
+    "value" : "script.test01"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test01.test05"
+  }, {
+    "name" : "package",
+    "value" : "script.test01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f0f96ad747e273f.json",
+  "parameterValues" : [ ]
+}

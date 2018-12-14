@@ -1,0 +1,91 @@
+{
+  "uid" : "7e7ccca59519a008",
+  "name" : "Test01.test01",
+  "fullName" : "script.test01.Test01.test01",
+  "historyId" : "8ee5bff59b1d24be0e87d686ed07f699",
+  "time" : {
+    "start" : 1544778633326,
+    "stop" : 1544778633336,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "测试步骤001",
+      "time" : {
+        "start" : 1544778633335,
+        "stop" : 1544778633336,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f73eb4e39f7f6181",
+        "name" : "描述",
+        "source" : "f73eb4e39f7f6181.txt",
+        "type" : "text/plain",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "风一样自由"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "5940-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "script.test01"
+  }, {
+    "name" : "testClass",
+    "value" : "script.test01"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test01.test01"
+  }, {
+    "name" : "package",
+    "value" : "script.test01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e7ccca59519a008.json",
+  "parameterValues" : [ ]
+}

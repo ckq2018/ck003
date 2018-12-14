@@ -1,0 +1,97 @@
+{
+  "6970d685409c50d838bbfabe2e3cace7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f0f96ad747e273f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778633352,
+        "stop" : 1544778633354,
+        "duration" : 2
+      }
+    } ]
+  },
+  "8ee5bff59b1d24be0e87d686ed07f699" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e7ccca59519a008",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778633326,
+        "stop" : 1544778633336,
+        "duration" : 10
+      }
+    } ]
+  },
+  "67ef192906b790bc00f7a8088234c285" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f81a2634135084a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778633344,
+        "stop" : 1544778633347,
+        "duration" : 3
+      }
+    } ]
+  },
+  "6a399d285aac2f663e34d463d36c5569" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92280b3eefbbb38c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778633349,
+        "stop" : 1544778633351,
+        "duration" : 2
+      }
+    } ]
+  },
+  "8ed18bc8642e58ccee278a3c6001f0b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa5b650ac74abc23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778633341,
+        "stop" : 1544778633343,
+        "duration" : 2
+      }
+    } ]
+  }
+}
