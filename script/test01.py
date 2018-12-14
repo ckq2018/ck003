@@ -1,4 +1,3 @@
-# coding=utf-8
 import allure
 import pytest
 
@@ -14,6 +13,7 @@ class Test01():
     @allure.step("测试步骤002")
     def test02(self):
         print("深圳")
+
 
     @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
     @allure.step("测试步骤003")
