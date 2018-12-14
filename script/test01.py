@@ -12,12 +12,14 @@ class Test01():
     @pytest.allure.severity(pytest.allure.severity_level.MINOR)
     @allure.step("测试步骤002")
     def test02(self):
+        allure.attach("描述", "深圳是一个奇迹")
         print("深圳")
 
 
     @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
     @allure.step("测试步骤003")
     def test03(self):
+        allure.attach("描述", "广州是一个好地方")
         print("广州")
 
     @allure.step("测试步骤004")
